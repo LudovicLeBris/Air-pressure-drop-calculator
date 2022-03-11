@@ -46,7 +46,7 @@ Legend :
 
 ### Duct section
 The duct section management begin with one section set with defaults datas. Every new duct section will be set with the
-sames default datas.
+sames default datas.  
 ![alt text][duct section window] ![alt text][rectangular case]  
 Legend :
 1. Buttons for add or remove a duc section8. Result of fmow speed in duct section
