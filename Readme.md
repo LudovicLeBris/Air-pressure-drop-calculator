@@ -8,7 +8,7 @@ apd
 This small software allow you to calculate the air drop pressure in air duct network.
 You can add multiple duct sections and configure each section with its own characteristics.
 Air characteristics are configurable too.
-See the user manual below.
+See the user manual below.  
 <img src="./Readme%20visuals/mainwindow.PNG" height=420 alt="A software window"/>
 
 ### Aeraulic method of calculation
