@@ -49,8 +49,8 @@ The duct section management begin with one section set with defaults datas. Ever
 sames default datas.  
 ![alt text][duct section window] ![alt text][rectangular case]  
 Legend :
-1. Buttons for add or remove a duc section8. Result of fmow speed in duct section
-2. Choice of duc section shape
+1. Buttons for add or remove a duct section. Result of flow speed in duct section
+2. Choice of duct section shape
 3. Choice of duct section material
 4. Choice of diameter if shape is circular (in mm). displaying height and width inputs (in mm) if shape is rectangular.
 5. Result of section of the duct (in m²)
